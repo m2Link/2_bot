@@ -4,13 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b>Hi,I'm Movie Search bot {}!!</b>
+<i>Just Type The Name of Your Movie You
+Want!
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-@CrazyBotsz
+Here You Can Search Files in Inline 
+Mode.Just Press Following Buttons
+And Start Searching
 </i>"""    
     
     HELP_TEXT = """
