@@ -428,10 +428,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('Join', url='https://t.me/Channel_links_1'),
-            InlineKeyboardButton('', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+            InlineKeyboardButton('Join',url='https://t.me/Channel_links_1'),
+            InlineKeyboardButton('More Movie',url ='https://t.me/discussion_Group_2')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+            InlineKeyboardButton('Search Movie',url='https://t.me/discussion_Group_2')
         ],[
             InlineKeyboardButton('Help ', callback_data="help")
         ]]
